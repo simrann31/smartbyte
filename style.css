@@ -1,0 +1,101 @@
+
+.text{
+  text-align: center;
+}
+
+.font{
+  color: grey;
+}
+
+
+.img{
+  border-radius: 10px;
+}
+
+
+ .button{
+   position: relative;
+   left: 70%;
+ }
+
+.box{
+  padding:4px;
+  width: 90%;
+
+}
+
+.sub{
+  position: relative;
+  top: -25%;
+  left: 35%
+}
+
+
+.owl-nav button {
+  position: absolute;
+  top: 50%;
+  background-color: #000;
+  color: #fff;
+  margin: 0;
+  transition: all 0.3s ease-in-out;
+}
+.owl-nav button.owl-prev {
+  left: 0;
+}
+.owl-nav button.owl-next {
+  right: 0;
+}
+
+
+.owl-nav button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.38) !important;
+}
+span {
+    font-size: 70px;
+    position: relative;
+    top: -5px;
+    color: #000;
+}
+.owl-nav button:focus {
+    outline: none;
+
+}
+
+.card-title{
+  color:#000000;
+  fontsize:20px;
+}
+
+
+.card-text{
+  color:#000000;
+  fontsize:20px;
+}
+
+
+
+.cpryt{
+  font-size: 15px;
+}
+
+
+.testimonials{
+	position: relative;
+	padding-top: 30px;
+	}
+
+
+	.item {
+			text-align: center;
+			// padding: 40px;
+			margin-bottom:60px;
+	}
+
+
+span.menu{
+  height: 30px;
+  width: 30px;
+}

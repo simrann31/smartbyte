@@ -1,0 +1,18 @@
+.text{
+  text-align: center;
+}
+
+.img{
+  border-radius: 10px;
+}
+
+.card-title{
+  color:#000000;
+  fontsize:20px;
+}
+
+
+.card-text{
+  color:#000000;
+  fontsize:20px;
+}
